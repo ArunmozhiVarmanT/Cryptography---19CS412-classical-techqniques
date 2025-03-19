@@ -86,6 +86,8 @@ void main()
 The program is executed successfully
 
 ---------------------------------
+## NAME: ARUNMOZHI VARMAN.T
+## REG NO: 212223230022
 
 # PlayFair Cipher
 Playfair Cipher using with different key values
